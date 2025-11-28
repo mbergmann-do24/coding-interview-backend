@@ -18,7 +18,8 @@ You don't have to implement every feature to the end but far enough to get an id
 Add addresses to your users
 * you should be able to add, remove or change addresses of a users
 * it should be possible to get all addresses without users
-* if a youser is deleted, all addresses of this user should be deleted as well
+* if a user is deleted, all addresses of this user should be deleted as well
+* one user can have multiple addresses
 
 ### Validation
 * all input fields should be validated
